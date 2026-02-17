@@ -1,11 +1,21 @@
 Privacy Policy for BOZRO Image Compressor
-Your privacy is important to us. This Privacy Policy explains how BOZRO Image Compressor handles your information.
-1. Information Collection and Use We do not collect or store any personal information such as your name, phone number, or location. The app only accesses your device storage or media files when you choose to select images for compression.
-2. Image Processing All image compression is performed locally on your device. Processed images are stored in a temporary cache on your device to allow you to save or share them. These temporary files are managed by your operating system and are typically cleared when the app is closed or storage is needed.
-3. Advertising (Third-Party Services) We use Google AdMob to display advertisements. These third-party ad networks may collect and use certain data (such as your device's Advertising ID) to show personalized ads. You can learn more about how Google uses data here: https://policies.google.com/technologies/ads
-4. Children’s Privacy Our app is not designed to collect any personal data from anyone, including children under the age of 13. We do not knowingly collect personally identifiable information from children. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us.
-5. Permissions The app requests access to your device storage or media library solely to select and save compressed images. These permissions are strictly used for app functionality.
-6. Contact Us If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: Email: relax6566relax@gmail.com
-7. Legal Requirements We may disclose information if required to do so by law or in response to valid legal requests by public authorities.
-8. User Consent By using this app, you agree to the terms of this Privacy Policy.
-Effective Date: 1 August 2024.
+Effective Date: 1 August 2024
+1. Information Collection and Use Your privacy is our priority. BOZRO Image Compressor is a utility app that does not collect, store, or share any of your personal information, such as your name, phone number, or location. We believe in keeping your data private and secure.
+2. Image Processing, Saving, and Sharing
+•
+Local Processing: All image compression and optimization are performed locally on your device. Your images are never uploaded to any server for processing.
+•
+Saving Images: When you choose to "Save" an image, the app writes the compressed file directly to your device's storage. These files are yours to keep and manage.
+•
+Sharing Images: If you use the "Share" or "Save All" (via share sheet) feature, the app uses the standard Android System Sharing Intent. This allows you to securely send your images to other apps (like WhatsApp, Email, or Drive) of your choice. We do not track or have access to who you share with.
+3. Permissions and Why We Need Them To function correctly, the app requests the following permissions:
+•
+Camera: To allow you to take a new photo directly within the app and compress it immediately.
+•
+Storage & Media Access: To let you select existing images from your gallery and to save the compressed versions back to your device.
+•
+Internet: This is used solely to load advertisements via Google AdMob and to allow you to visit external links (like "Rate Us" or our website).
+4. Advertising (Third-Party Services) We use Google AdMob to show advertisements. These third-party ad networks may collect and use certain data (such as your device's Advertising ID) to show personalized ads. You can learn more about how Google uses data here: https://policies.google.com/technologies/ads
+5. Children’s Privacy Our app is safe for everyone. We do not knowingly collect any personal data from children under the age of 13. Since we do not collect personal data from any users, we are fully compliant with children’s privacy regulations.
+6. Contact Us If you have any questions or suggestions about our Privacy Policy, please feel free to contact us: Email: relax6566relax@gmail.com
+7. User Consent By using BOZRO Image Compressor, you agree to the terms of this Privacy Policy.
