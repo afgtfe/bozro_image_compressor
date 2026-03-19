@@ -12,7 +12,7 @@ Effective Date: 19 March 2026
 
 • Third-Party Services: To keep this app free and provide advanced features, we use the following third-party services:
 
-•  Google AdMob: For displaying advertisements. Google may use your device's Advertising ID to show personalized ads. Review Google’s policy here.
+•  Google AdMob: For displaying advertisements. Google may use your device's Advertising ID to show personalized ads. <a href="https://policies.google.com/technologies/ads">Review Google’s policy here</a>.
 
 •  Google ML Kit: We use Google ML Kit's Subject Segmentation API for high-quality background removal.
 
