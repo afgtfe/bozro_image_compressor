@@ -41,3 +41,7 @@ Effective Date: 19 March 2026
 
 12. Changes to These Terms We may update our Terms of Use from time to time. Your continued use of the app after any modifications constitutes your acceptance of the new terms.
 
+Third-Party Services
+The app uses third-party services that have their own Terms and Conditions. By using this app, you agree to be bound by the terms of:
+• Google AdMob: https://policies.google.com/technologies/ads
+• Google ML Kit: https://developers.google.com/ml-kit/terms
