@@ -52,3 +52,9 @@ Effective Date: 19 March 2026
 
 9. Consent By using BOZRO: BG Remover & Compressor, you hereby consent to our Privacy Policy and agree to its terms.
 
+Third-Party Services
+The app uses third-party services that have their own Terms and Conditions. By using this app, you agree to be bound by the terms of:
+
+• Google AdMob: https://policies.google.com/technologies/ads
+
+• Google ML Kit: https://developers.google.com/ml-kit/terms
