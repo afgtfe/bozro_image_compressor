@@ -1,70 +1,99 @@
-Privacy Policy for Ai Photo Editor : Bozro
+**Privacy Policy for Ai Photo Editor : Bozro**
+**Effective Date:** 01 May 2026
 
-Effective Date: 01 May 2026
+---
 
-1. Introduction
-Your privacy is our top priority. This Privacy Policy explains how Ai Photo Editor : Bozro handles your information. We are committed to protecting your personal data and providing a secure user experience while you use our professional tools for image editing, background removal, conversion, and compression.
+### **Introduction**
 
+Your privacy is important to us. This Privacy Policy explains how *Ai Photo Editor : Bozro* handles your information. We are committed to protecting your data and providing a secure experience while you use our image editing, background removal, conversion, and compression tools.
 
-2. Information Collection and Use
+---
 
-• Personal Data: The developer of this app does not collect, store, or share any of your private personal information, such as your name, phone number, email address, or precise location.
+### **Information Collection and Use**
 
-• Third-Party Services: To keep this app free and provide advanced AI features, we use the following trusted third-party services:
+• **Personal Data:**
+We do not collect, store, or share any personally identifiable information such as your name, email address, phone number, or precise location.
 
-◦ Google AdMob: For displaying advertisements. Google may use your device's Advertising ID to show personalized ads. Review Google’s policy here.
+• **Third-Party Services:**
+To keep the app free and provide essential features, we use trusted third-party services:
 
-◦ Firebase (by Google): We use Firebase Cloud Messaging (FCM) to send important notifications and Firebase Analytics to monitor app performance (non-personal data).
+* **Google AdMob:** Used to display ads. AdMob may use device identifiers (such as Advertising ID) to show personalized or non-personalized ads. Users can control ad preferences via the consent form in the app.
 
-◦ Google ML Kit & TensorFlow Lite: We use these technologies for high-quality, on-device AI processing like background removal and face detection.
+* **Firebase (by Google):**
 
+  * Firebase Cloud Messaging (FCM) is used to send notifications.
+  * Firebase Analytics collects anonymous usage data such as app performance and feature usage. This data does not directly identify users.
 
-3. Image Processing and AI Technology
+* **Google ML Kit & TensorFlow Lite:**
+  Used for on-device AI processing such as face detection and background removal.
 
-• On-Device AI Processing: This is a key feature of our app. All image processing—including Background Removal, Photo Editing, Image Conversion, and Compression—is performed locally on your device using TensorFlow Lite and Google ML Kit.
+---
 
-• No Cloud Uploads: Your images are never uploaded to our servers or any third-party cloud services. Everything happens inside your phone, ensuring 100% privacy.
+### **Image Processing and AI Technology**
 
-• Temporary Caching: The app uses temporary storage (cache) on your device to hold images during the editing process. These files are temporary and are cleared automatically when the app is closed or when your operating system needs to free up storage.
+• **On-Device Processing:**
+All image processing (editing, background removal, compression, conversion) is performed locally on your device using on-device machine learning technologies.
 
-• Saving & Sharing: Processed images are written directly to your device's storage or passed securely to other apps via the standard Android System Sharing Intent only when you choose to share.
+• **No Cloud Uploads:**
+Your images are not uploaded to our servers or any third-party servers. Processing happens entirely on your device.
 
+• **Temporary Caching:**
+The app may temporarily store images in device cache during processing. These files are automatically cleared when no longer needed.
 
-4. Managing Your Privacy Choices
-In compliance with global privacy regulations like GDPR and CCPA, you have the right to manage your privacy preferences at any time. You can access "Privacy Settings" from the app's menu to review or change your consent for personalized advertisements through our integrated Consent Management Platform (UMP).
+• **Saving & Sharing:**
+Edited images are saved to your device or shared through Android’s secure sharing system only when you choose to do so.
 
-5. Permissions and Their Necessity
-The app requires the following permissions to function:
+---
 
-• Camera: To capture new photos for immediate editing or processing.
+### **Permissions and Their Use**
 
-• Storage/Media Access: To select images from your gallery and save the edited versions.
+• **Camera:** Capture photos for editing
+• **Storage/Media Access:** Select and save images
+• **Notifications (Android 13+):** Send updates and alerts
+• **Internet:** Load ads and download optional ML models provided by Google services
 
-• Notifications (Android 13+): To receive updates and important information regarding your tasks.
+---
 
-• Internet: Required to load advertisements from Google AdMob and for the AI engine to download necessary processing models if required.
+### **Managing Your Privacy Choices**
 
+Users can manage their consent preferences for ads at any time using the in-app consent form (UMP). This supports regulations such as GDPR and CCPA.
 
-6. Children’s Privacy
-Our app is safe for all ages. We do not knowingly collect any personal data from children under 13. Since no personal data is collected by the developer, we are fully compliant with children's privacy regulations (COPPA).
+---
 
+### **Children’s Privacy**
 
-7. Security
-We use commercially acceptable means of protecting any temporary technical data. However, remember that no method of electronic storage or transmission over the internet is 100% secure, and we cannot guarantee its absolute security.
+This app does not knowingly collect personal data from children under 13. Since no personal data is collected, we comply with applicable children’s privacy regulations.
 
-8. Contact Us
-If you have any questions or suggestions, please contact us at: relax6566relax@gmail.com
+---
 
-9. Consent
-By using Ai Photo Editor : Bozro, you hereby consent to our Privacy Policy and agree to its terms.
+### **Data Sharing Policy**
 
-Third-Party Services Links
-By using this app, you agree to be bound by the terms and conditions of:
+We do not sell, trade, or rent users' personal information to any third parties.
+
+---
+
+### **Security**
+
+We use commercially reasonable measures to protect data. However, no method of electronic storage is completely secure.
+
+---
+
+### **Third-Party Services Links**
 
 • Google AdMob: https://policies.google.com/technologies/ads
-
 • Firebase Privacy: https://firebase.google.com/support/privacy
+• Google ML Kit Terms: https://developers.google.com/ml-kit/terms
+• Google Privacy Policy: https://policies.google.com/privacy
 
-• Google ML Kit: https://developers.google.com/ml-kit/terms
+---
 
-• TensorFlow Lite: https://www.tensorflow.org/lite/guide
+### **Contact Us**
+
+If you have any questions, contact us at:
+[relax6566relax@gmail.com](mailto:relax6566relax@gmail.com)
+
+---
+
+### **Consent**
+
+By using Ai Photo Editor : Bozro, you agree to this Privacy Policy.
