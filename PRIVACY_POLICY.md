@@ -24,7 +24,7 @@ To keep the app free and provide essential features, we use trusted third-party 
   * Firebase Cloud Messaging (FCM) is used to send notifications.
   * Firebase Analytics collects anonymous usage data such as app performance and feature usage. This data does not directly identify users.
 
-* **Google ML Kit & TensorFlow Lite:**
+* **Google ML Kit **
   Used for on-device AI processing such as face detection and background removal.
 
 ---
