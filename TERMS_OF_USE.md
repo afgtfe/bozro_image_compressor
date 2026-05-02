@@ -36,7 +36,7 @@ The app, including all trademarks, copyrights, design, and intellectual property
 
 • **Ownership:** You retain full ownership of all images you edit using this app.
 
-• **On-Device Processing:** All image processing (including AI-based background removal, editing, conversion, and compression) is performed locally on your device using on-device machine learning technologies such as TensorFlow Lite and ML Kit.
+• **On-Device Processing:** All image processing (including AI-based background removal, editing, conversion, and compression) is performed locally on your device using on-device machine learning technologies such as  ML Kit.
 
 • **No Cloud Storage:** Your images are not uploaded to our servers and remain on your device.
 
@@ -50,13 +50,13 @@ These services include:
 
 • Google AdMob (advertising)
 • Firebase (notifications and analytics)
-• Google ML Kit & TensorFlow Lite (AI processing)
+• Google ML Kit (AI processing)
 
 ---
 
 ### **7. Connectivity and Charges**
 
-Some features require an internet connection (such as ads and downloading optional ML models). You are responsible for any data charges from your network provider.
+Some features require an internet connection (such as ads and downloading optional ML kit models). You are responsible for any data charges from your network provider.
 
 ---
 
