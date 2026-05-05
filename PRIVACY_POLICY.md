@@ -1,5 +1,5 @@
 **Privacy Policy for AI Photo Editor: Bozro**
-**Effective Date:** 01 May 2026
+**Effective Date:** 06 May 2026
 
 ---
 
