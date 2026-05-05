@@ -74,7 +74,25 @@ You are not required to create an account to use this app.
 
 ---
 
-### **11. Contact Us**
+### **11. User Responsibility and Content Usage**
+
+You are solely responsible for any images, content, or edits created using the app.
+
+You agree NOT to use the app to create, edit, or distribute any content that is illegal, harmful, abusive, defamatory, obscene, or violates the rights of others.
+
+This includes (but is not limited to):
+
+* Nudity or sexually explicit content
+* Harassment, hate speech, or violence
+* Misleading or fraudulent content
+* Content that violates intellectual property rights
+
+**AI Photo Editor: Bozro** does not monitor or control the content processed by users. All processing is performed on-device.
+
+The developer shall not be held responsible for any misuse of the app by users.
+
+
+### **12. Contact Us**
 
 For any questions regarding these Terms, please contact us at:
 **[relax6566relax@gmail.com](mailto:relax6566relax@gmail.com)**
