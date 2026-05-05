@@ -1,99 +1,119 @@
-**Privacy Policy for Ai Photo Editor : Bozro**
+**Privacy Policy for AI Photo Editor: Bozro**
 **Effective Date:** 01 May 2026
 
 ---
 
 ### **Introduction**
 
-Your privacy is important to us. This Privacy Policy explains how *Ai Photo Editor : Bozro* handles your information. We are committed to protecting your data and providing a secure experience while you use our image editing, background removal, conversion, and compression tools.
+Your privacy is important to us. This Privacy Policy explains how **AI Photo Editor: Bozro** handles your information. We are committed to protecting your data and providing a secure experience while you use our image editing, background removal, conversion, and compression tools.
 
 ---
 
 ### **Information Collection and Use**
 
-• **Personal Data:**
-We do not collect, store, or share any personally identifiable information such as your name, email address, phone number, or precise location.
+**• Personal Data:**
+We do not collect, store, or share any personally identifiable information unless you voluntarily provide it through our Support & Feedback feature (e.g., your name, email address, and message). This data is used solely to respond to your inquiries and provide technical assistance.
 
-• **Third-Party Services:**
+**• Support & Feedback Information:**
+When you contact us through the in-app support form, we collect your email address (required for response), and optionally your name and profession. We may also collect device-specific information (such as model and Android version) to help troubleshoot technical issues.
+This information is stored securely in Firebase Firestore and is never shared with third parties.
+
+---
+
+### **Third-Party Services**
+
 To keep the app free and provide essential features, we use trusted third-party services:
 
-* **Google AdMob:** Used to display ads. AdMob may use device identifiers (such as Advertising ID) to show personalized or non-personalized ads. Users can control ad preferences via the consent form in the app.
+* **Google AdMob:**
+  Used to display ads. AdMob may use device identifiers (such as Advertising ID) to show personalized or non-personalized ads. Users can control ad preferences via the consent form in the app.
 
 * **Firebase (by Google):**
 
-  * Firebase Cloud Messaging (FCM) is used to send notifications.
-  * Firebase Analytics collects anonymous usage data such as app performance and feature usage. This data does not directly identify users.
+* Cloud Firestore: Stores support tickets and feedback messages
 
-* **Google ML Kit **
+* Firebase Cloud Messaging (FCM): Sends notifications
+
+* Firebase Analytics: Collects anonymous usage data such as app performance and feature usage. This data does not directly identify users
+
+* **Google ML Kit:**
   Used for on-device AI processing such as face detection and background removal.
 
 ---
 
 ### **Image Processing and AI Technology**
 
-• **On-Device Processing:**
-All image processing (editing, background removal, compression, conversion) is performed locally on your device using on-device machine learning technologies.
+**• On-Device Processing:**
+All image processing (editing, background removal, compression, conversion) is performed locally on your device.
 
-• **No Cloud Uploads:**
-Your images are not uploaded to our servers or any third-party servers. Processing happens entirely on your device.
+**• No Cloud Uploads:**
+Your images are not uploaded to our servers or any third-party servers.
 
-• **Temporary Caching:**
+**• No Human Access:**
+All processing happens automatically on-device without any human access to your data.
+
+**• Temporary Caching:**
 The app may temporarily store images in device cache during processing. These files are automatically cleared when no longer needed.
 
-• **Saving & Sharing:**
-Edited images are saved to your device or shared through Android’s secure sharing system only when you choose to do so.
+**• Saving & Sharing:**
+Edited images are saved to your device or shared only when you choose to do so.
 
 ---
 
 ### **Permissions and Their Use**
 
-• **Camera:** Capture photos for editing
-• **Storage/Media Access:** Select and save images
-• **Notifications (Android 13+):** Send updates and alerts
-• **Internet:** Load ads and download optional ML models provided by Google services
+* Camera: Capture photos for editing
+* Storage / Media Access: Select and save images
+* Notifications (Android 13+): Send updates and alerts
+* Internet: Load ads, send support feedback, and download optional ML models
 
 ---
 
 ### **Managing Your Privacy Choices**
 
-Users can manage their consent preferences for ads at any time using the in-app consent form (UMP). This supports regulations such as GDPR and CCPA.
+Users can manage their ad consent preferences at any time using the in-app consent form (UMP). This helps comply with regulations such as GDPR and CCPA.
+
+---
+
+### **Account Requirement**
+
+We do not require users to create an account or sign up to use the app.
 
 ---
 
 ### **Children’s Privacy**
 
-This app does not knowingly collect personal data from children under 13. Since no personal data is collected, we comply with applicable children’s privacy regulations.
+This app does not knowingly collect personal data from children under the age of 13. If such data is discovered, it will be deleted promptly. Since no other personal data is collected, we comply with applicable children's privacy laws.
 
 ---
 
 ### **Data Sharing Policy**
 
-We do not sell, trade, or rent users' personal information to any third parties.
+We do not sell, trade, or rent users' personal information to any third parties. Support information is used only for communication between you and the developer.
 
 ---
 
 ### **Security**
 
-We use commercially reasonable measures to protect data. However, no method of electronic storage is completely secure.
+We use secure cloud services (Firebase) and commercially reasonable measures to protect your data. However, no method of transmission over the internet is 100% secure.
 
 ---
 
-### **Third-Party Services Links**
+### **Third-Party Links**
 
-• Google AdMob: https://policies.google.com/technologies/ads
-• Firebase Privacy: https://firebase.google.com/support/privacy
-• Google ML Kit Terms: https://developers.google.com/ml-kit/terms
-• Google Privacy Policy: https://policies.google.com/privacy
+* Google AdMob: https://policies.google.com/technologies/ads
+* Firebase Privacy: https://firebase.google.com/support/privacy
+* Google ML Kit Terms: https://developers.google.com/ml-kit/terms
+* Google Privacy Policy: https://policies.google.com/privacy
 
 ---
 
 ### **Contact Us**
 
-If you have any questions, contact us at:
-[relax6566relax@gmail.com](mailto:relax6566relax@gmail.com)
+If you have any questions or requests regarding your data, contact us at:
+**[relax6566relax@gmail.com](mailto:relax6566relax@gmail.com)**
 
 ---
 
 ### **Consent**
 
-By using Ai Photo Editor : Bozro, you agree to this Privacy Policy.
+By using **AI Photo Editor: Bozro**, you agree to this Privacy Policy.
