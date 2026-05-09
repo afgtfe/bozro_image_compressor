@@ -1,5 +1,5 @@
 **Terms of Use for AI Photo Editor: Bozro**
-**Effective Date:** 06 May 2026
+**Effective Date:** 10 May 2026
 
 ---
 
