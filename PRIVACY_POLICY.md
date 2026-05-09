@@ -1,5 +1,5 @@
 **Privacy Policy for AI Photo Editor: Bozro**
-**Effective Date:** 06 May 2026
+**Effective Date:** 10 May 2026
 
 ---
 
@@ -104,6 +104,29 @@ We use secure cloud services (Firebase) and commercially reasonable measures to 
 * Firebase Privacy: https://firebase.google.com/support/privacy
 * Google ML Kit Terms: https://developers.google.com/ml-kit/terms
 * Google Privacy Policy: https://policies.google.com/privacy
+
+
+---
+
+### **Online Content & Background Library**
+
+Our app provides an **"Online Image"** feature that allows users to browse and download background images, templates, and other creative assets.
+
+* **Internet Access:**
+  This feature requires an internet connection to load image metadata and download content from our hosted online repository.
+
+* **Data Collection:**
+  We do not collect, store, or share any personal information, gallery images, or search activity from your device while using this feature.
+
+* **Third-Party Hosting:**
+  Some online content may be hosted on third-party platforms such as GitHub. When accessing these resources, your IP address and basic device/network information may be processed by the hosting provider as part of standard internet traffic handling, subject to their respective privacy policies.
+
+* **GitHub Privacy Policy:**
+  https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+
+* **User Control:**
+  Downloading and using online content is completely optional and initiated only by the user.
+
 
 ---
 
