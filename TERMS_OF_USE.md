@@ -92,7 +92,29 @@ This includes (but is not limited to):
 The developer shall not be held responsible for any misuse of the app by users.
 
 
-### **12. Contact Us**
+### **12.**Ownership and Usage of Online Images**
+
+All images, backgrounds, templates, and other assets available in the **"Online Image"** library are the intellectual property of **AI Photo Editor: Bozro** or are used with appropriate rights and permissions.
+
+* **Limited License:**
+  We grant users a non-exclusive, non-transferable, and limited license to use these assets solely for personal editing and creative purposes within the app.
+
+* **Restrictions:**
+  Users are strictly prohibited from:
+
+  i. Extracting, copying, or re-selling the original images as standalone products
+  ii. Re-uploading or distributing the original image files on other apps, platforms, or websites
+  iii. Claiming ownership or copyright over any unmodified assets provided through the library
+
+* **Permitted Use:**
+  Users may freely use these assets as part of their edited creations, designs, or social media content created using the app.
+
+* **Content Protection:**
+  Unauthorized commercial redistribution or mass downloading of library assets may result in restricted access to the feature or legal action where applicable.
+
+
+
+### **13. Contact Us**
 
 For any questions regarding these Terms, please contact us at:
 **[relax6566relax@gmail.com](mailto:relax6566relax@gmail.com)**
