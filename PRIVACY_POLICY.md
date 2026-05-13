@@ -139,4 +139,4 @@ If you have any questions or requests regarding your data, contact us at:
 
 ### **Consent**
 
-By using **AI Photo Editor: Bozro**, you agree to this Privacy Policy.
+By using **AI Photo Editor: object remover **, you agree to this Privacy Policy.
