@@ -1,11 +1,11 @@
-**Privacy Policy for AI Photo Editor: Bozro**
-**Effective Date:** 10 May 2026
+**Privacy Policy for AI Photo Editor: object remover **
+**Effective Date:** 14 May 2026
 
 ---
 
 ### **Introduction**
 
-Your privacy is important to us. This Privacy Policy explains how **AI Photo Editor: Bozro** handles your information. We are committed to protecting your data and providing a secure experience while you use our image editing, background removal, conversion, and compression tools.
+Your privacy is important to us. This Privacy Policy explains how **AI Photo Editor: object remover ** handles your information. We are committed to protecting your data and providing a secure experience while you use our image editing, background removal, conversion, and compression tools.
 
 ---
 
