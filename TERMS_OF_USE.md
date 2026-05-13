@@ -1,11 +1,11 @@
-**Terms of Use for AI Photo Editor: Bozro**
-**Effective Date:** 10 May 2026
+**Terms of Use for AI Photo Editor: object remover **
+**Effective Date:** 14 May 2026
 
 ---
 
 ### **1. Acceptance of Terms**
 
-By downloading or using **AI Photo Editor: Bozro**, you agree to these Terms of Use. If you do not agree with any part of these terms, you must not use the app.
+By downloading or using **AI Photo Editor: object remover **, you agree to these Terms of Use. If you do not agree with any part of these terms, you must not use the app.
 
 ---
 
@@ -87,14 +87,14 @@ This includes (but is not limited to):
 * Misleading or fraudulent content
 * Content that violates intellectual property rights
 
-**AI Photo Editor: Bozro** does not monitor or control the content processed by users. All processing is performed on-device.
+**AI Photo Editor: object remover ** does not monitor or control the content processed by users. All processing is performed on-device.
 
 The developer shall not be held responsible for any misuse of the app by users.
 
 
 ### **12.**Ownership and Usage of Online Images**
 
-All images, backgrounds, templates, and other assets available in the **"Online Image"** library are the intellectual property of **AI Photo Editor: Bozro** or are used with appropriate rights and permissions.
+All images, backgrounds, templates, and other assets available in the **"Online Image"** library are the intellectual property of **AI Photo Editor: object remover ** or are used with appropriate rights and permissions.
 
 * **Limited License:**
   We grant users a non-exclusive, non-transferable, and limited license to use these assets solely for personal editing and creative purposes within the app.
