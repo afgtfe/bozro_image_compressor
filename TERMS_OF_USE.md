@@ -31,7 +31,7 @@ We provide an in-app support system to assist users with technical issues and co
 * **Images:** Your images are processed entirely on-device. We do not upload your photos to any cloud servers.
 * **No Human Access:** All processing is automated, and no human has access to your images or data.
 * **Support Data:** If you use the support feature, the information you provide (message, email, device info) is stored securely via Firebase Firestore solely for support purposes.
-
+* ** File Access: Access to your device storage is strictly user-initiated. The app only accesses media files when you open the File Manager to select images for processing.
 ---
 
 ### **5. Restrictions**
