@@ -1,5 +1,5 @@
 **Privacy Policy for AI Photo Editor: object remover **
-**Effective Date:** 14 May 2026
+**Effective Date:** 09 August 2026
 
 ---
 
@@ -61,7 +61,7 @@ Edited images are saved to your device or shared only when you choose to do so.
 
 ### **Permissions and Their Use**
 
-* Camera: Capture photos for editing
+* Camera: Our app allows users to capture photos using the device's default camera application. These photos are processed locally on the device for editing purposes and are not uploaded to our servers without user consent.
 * Storage / Media Access: Select and save images
 * Notifications (Android 13+): Send updates and alerts
 * Internet: Load ads, send support feedback, and download optional ML models
