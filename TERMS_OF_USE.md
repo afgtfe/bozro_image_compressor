@@ -1,5 +1,5 @@
 **Terms of Use for AI Photo Editor: object remover **
-**Effective Date:** 14 May 2026
+**Effective Date:** 09 August 2026
 
 ---
 
@@ -85,8 +85,9 @@ This includes (but is not limited to):
 * Nudity or sexually explicit content
 * Harassment, hate speech, or violence
 * Misleading or fraudulent content
-* Content that violates intellectual property rights
-
+* Content that violates intellectual property rights.
+* Camera Usage & Photo Capture: By using the in-app camera feature, you agree that you are solely responsible for the content you capture. You must not use the camera to take photos of individuals without their consent, or capture any material that violates privacy laws, security protocols, or the prohibited content guidelines mentioned in these terms.
+  
 **AI Photo Editor: object remover ** does not monitor or control the content processed by users. All processing is performed on-device.
 
 The developer shall not be held responsible for any misuse of the app by users.
