@@ -62,7 +62,7 @@ Edited images are saved to your device or shared only when you choose to do so.
 ### **Permissions and Their Use**
 
 * Camera: Our app allows users to capture photos using the device's default camera application. These photos are processed locally on the device for editing purposes and are not uploaded to our servers without user consent.
-* Storage / Media Access: Select and save images
+* Storage / Media Access:  Required to browse, select, and save images within the app’s internal File Manager. This permission allows the app to display your gallery images so you can choose which ones to edit, compress, or convert. We only access the files you specifically select.
 * Notifications (Android 13+): Send updates and alerts
 * Internet: Load ads, send support feedback, and download optional ML models
 
